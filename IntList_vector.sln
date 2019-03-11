@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntList_vector", "IntList_vector\IntList_vector.vcxproj", "{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}.Debug|x64.ActiveCfg = Debug|x64
+		{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}.Debug|x64.Build.0 = Debug|x64
+		{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}.Debug|x86.Build.0 = Debug|Win32
+		{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}.Release|x64.ActiveCfg = Release|x64
+		{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}.Release|x64.Build.0 = Release|x64
+		{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}.Release|x86.ActiveCfg = Release|Win32
+		{6FC1CC1D-51C8-4F07-88BF-70481BF98E77}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA29ACE8-2050-4164-8964-28957F832F88}
+	EndGlobalSection
+EndGlobal
